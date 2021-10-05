@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on unstoppa61e blog</title>
-    <link>http://unstoppa61e.github.io/blog/categories/</link>
+    <link>http://unstoppa61e.github.io/categories/</link>
     <description>Recent content in Categories on unstoppa61e blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-JP</language><atom:link href="http://unstoppa61e.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-JP</language><atom:link href="http://unstoppa61e.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
