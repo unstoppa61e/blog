@@ -1,4 +1,4 @@
-baseURL = 'http://unstoppa61e.github.io/blog'
+baseURL = 'http://unstoppa61e.github.io/'
 languageCode = 'ja-JP'
 title = 'unstoppa61e blog'
 publishDir = "docs"
