@@ -1,3 +1,7 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'http://unstoppa61e.github.io/hugo_blog'
+languageCode = 'ja-JP'
+title = 'unstoppa61e blog'
+publishDir = 'docs'
+theme = 'pickles'
+[params]
+  paginate = 10
