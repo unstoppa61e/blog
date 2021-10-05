@@ -1,7 +1,8 @@
-baseURL = 'http://unstoppa61e.github.io/hugo_blog'
+baseURL = 'http://unstoppa61e.github.io/blog'
 languageCode = 'ja-JP'
 title = 'unstoppa61e blog'
-publishDir = 'docs'
+publishDir = "docs"
 theme = 'pickles'
+canonifyurls = true
 [params]
   paginate = 10
